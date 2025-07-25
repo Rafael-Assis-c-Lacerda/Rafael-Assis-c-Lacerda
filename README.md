@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Olá, sejam bem-vindos ao meu espaço aqui no GitHub.<br>Sou um aluno do segundo semestre de Ciência da Computação na PUC Minas.<br>Atualmente estou procurando virar monitor ou atuar em um estágio para ganhar mais experiência.<br>
 
 
